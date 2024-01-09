@@ -48,8 +48,6 @@ dario.cat/mergo v1.0.0/go.mod h1:uNxQE+84aUszobStD9th8a29P2fMDhsBdgRYvZOxGmk=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078 h1:cliQ4HHsCo6xi2oWZYKWW4bly/Ory9FuTpFPRxj/mAg=
 git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078/go.mod h1:g/V2Hjas6Z1UHUp4yIx6bATpNzJ7DYtD0FG3+xARWxs=
-gitea.com/gitea/act v0.2.51 h1:gXc/B4OlTciTTzAx9cmNyw04n2SDO7exPjAsR5Idu+c=
-gitea.com/gitea/act v0.2.51/go.mod h1:CoaX2053jqBlD6JMgu4d4UgFL/rp2I14Kt5mMqcs0Z0=
 gitea.com/go-chi/binding v0.0.0-20230415142243-04b515c6d669 h1:RUBX+MK/TsDxpHmymaOaydfigEbbzqUnG1OTZU/HAeo=
 gitea.com/go-chi/binding v0.0.0-20230415142243-04b515c6d669/go.mod h1:77TZu701zMXWJFvB8gvTbQ92zQ3DQq/H7l5wAEjQRKc=
 gitea.com/go-chi/cache v0.0.0-20210110083709-82c4c9ce2d5e/go.mod h1:k2V/gPDEtXGjjMGuBJiapffAXTv76H4snSmlJRLUhH0=
@@ -63,6 +61,8 @@ gitea.com/lunny/dingtalk_webhook v0.0.0-20171025031554-e3534c89ef96 h1:+wWBi6Qfr
 gitea.com/lunny/dingtalk_webhook v0.0.0-20171025031554-e3534c89ef96/go.mod h1:VyMQP6ue6MKHM8UsOXfNfuMKD0oSAWZdXVcpHIN2yaY=
 gitea.com/lunny/levelqueue v0.4.2-0.20230414023320-3c0159fe0fe4 h1:IFT+hup2xejHqdhS7keYWioqfmxdnfblFDTGoOwcZ+o=
 gitea.com/lunny/levelqueue v0.4.2-0.20230414023320-3c0159fe0fe4/go.mod h1:HBqmLbz56JWpfEGG0prskAV97ATNRoj5LDmPicD22hU=
+gitea.com/telackey/act v0.251.2-0.20240109034621-82366268e42f h1:vcSFraXwxGm3YnjmfnjuDdFFC96JBJVSKBljmoLtQgg=
+gitea.com/telackey/act v0.251.2-0.20240109034621-82366268e42f/go.mod h1:YthlRq0FUQIzgfJ3ZWvCvVq3I3VsC9s2NYQ9b2Uxccs=
 gitea.com/xorm/sqlfiddle v0.0.0-20180821085327-62ce714f951a h1:lSA0F4e9A2NcQSqGqTOXqu2aRi/XEQxDCBwM8yJtE6s=
 gitea.com/xorm/sqlfiddle v0.0.0-20180821085327-62ce714f951a/go.mod h1:EXuID2Zs0pAQhH8yz+DNjUbjppKQzKFAn28TMYPB6IU=
 gitee.com/travelliu/dm v1.8.11192/go.mod h1:DHTzyhCrM843x9VdKVbZ+GKXGRbKM2sJ4LxihRxShkE=
